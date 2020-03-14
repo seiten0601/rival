@@ -1,2 +1,3 @@
 # rival
-hi
+hi 
+hi humans, we come form other side
